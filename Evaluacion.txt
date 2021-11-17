@@ -1,4 +1,5 @@
-José Luis
 Ojeda Carrasco
 Lenguaje: manejo java y parte de python
 SGBD: MySQL, Access, OracleSQL
+José Luis
+0998595903
